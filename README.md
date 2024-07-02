@@ -6,3 +6,4 @@ Domain: CYBER SECURITY & ETHICAL HACKING
 Duration: 25 JUNE to 10 AUGUST 2024
 Overview of the Project 
 PASSWORD STRENGTH CHECKER
+![Screenshot 2024-07-02 153906](https://github.com/vsr1515/CODTECH-TASK1/assets/174433660/a0d3db5d-d81b-435d-8f6b-ee180cf99726)
